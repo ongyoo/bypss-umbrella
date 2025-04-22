@@ -2,6 +2,8 @@
 
 จัดการ "เปิด" หรือ "ปิด" บริการต่างๆ ง่ายๆ ด้วยคำสั่งเดียวผ่าน Terminal
 
+![Umbrella Demo](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.01.14.png)
+
 ---
 
 ## 📦 การติดตั้ง (Installation)
@@ -30,4 +32,4 @@ sudo umbrella open
 sudo umbrella close
 
 ### Demo
-![Umbrella Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Example.svg)
+![Umbrella Demo](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.01.14.png)
