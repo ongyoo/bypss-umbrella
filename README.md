@@ -30,4 +30,4 @@ sudo umbrella open
 sudo umbrella close
 
 ### Demo
-![local image](./Screenshot 2568-04-22 at 12.01.14.png)
+![Umbrella Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Example.svg)
