@@ -30,4 +30,4 @@ sudo umbrella open
 sudo umbrella close
 
 ### Demo
-[Demo](./Screenshot 2568-04-22 at 12.01.14.png)
+![local image](./Screenshot 2568-04-22 at 12.01.14.png)
