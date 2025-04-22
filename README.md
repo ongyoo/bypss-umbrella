@@ -30,4 +30,4 @@ sudo umbrella open
 sudo umbrella close
 
 ### Demo
-[Demo](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.01.14.png)
+[Demo](./Screenshot 2568-04-22 at 12.01.14.png)
