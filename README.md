@@ -28,4 +28,6 @@ sudo umbrella open
 
 ```bash
 sudo umbrella close
-![Demo](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.01.14.png)
+
+### Demo
+[Demo](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.01.14.png)
