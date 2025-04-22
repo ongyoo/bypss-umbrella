@@ -1,4 +1,4 @@
-# ☂️ Umbrella - Bash Script Command Line Tool (Suport Cisco Secure Client Version 5.1.8.105 lasted)
+# ☂️ Umbrella - Bash Script Command Line Tool (support Cisco Secure Client Version 5.1.8.105 lasted)
 ![Cisco Secure Client Version](https://raw.githubusercontent.com/ongyoo/bypss-umbrella/refs/heads/main/Screenshot%202568-04-22%20at%2012.16.26.png)
 จัดการ "เปิด" หรือ "ปิด" บริการต่างๆ ง่ายๆ ด้วยคำสั่งเดียวผ่าน Terminal
 
